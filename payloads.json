@@ -1,0 +1,40 @@
+{
+  "name": "Custom PS5 Payloads",
+  "payloads": [
+    {
+      "name": "BFpilot",
+      "filename": "bfpilot.elf",
+      "url": "https://github.com/ItsBlurf/BFpilot/releases/download/v0.3/bfpilot.elf",
+      "description": "Lightweight PS5 browser-based file manager on port 5905",
+      "version": "v0.3"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6test15-fix2/shadowmountplus.elf",
+      "description": "Automated background auto-mounter payload for jailbroken PS5 consoles",
+      "version": "1.6test15-fix2"
+    },
+    {
+      "name": "PS5 Game Compressor",
+      "filename": "PS5-Game-Compressor.elf",
+      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.3/PS5-Game-Compressor.elf",
+      "description": "Standalone PS5 payload for compressing, unpacking, validating, and repairing ShadowMountPlus-mounted games",
+      "version": "v1.0.3"
+    },
+    {
+      "name": "kstuff-lite",
+      "filename": "kstuff.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.07/kstuff.elf",
+      "description": "Kstuff Lite supports Firmware 3.00-12.70 with FPKG and PFS compression optimizations",
+      "version": "v1.07"
+    },
+    {
+      "name": "nanoDNS",
+      "filename": "nanodns-ps5.elf",
+      "url": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns-ps5.elf",
+      "description": "Minimal PS5 payload DNS proxy to bypass local overrides and forward DNS queries",
+      "version": "0.3"
+    }
+  ]
+}
