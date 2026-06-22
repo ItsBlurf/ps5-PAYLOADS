@@ -17,7 +17,7 @@
     },
     {
       "name": "PS5 Game Compressor",
-      "filename": "PS5-Game-Compressor.elf",
+      "filename": "game-compressor.elf",
       "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.3/game-compressor.elf",
       "description": "Standalone PS5 payload for compressing, unpacking, validating, and repairing ShadowMountPlus-mounted games",
       "version": "v1.0.3"
@@ -31,7 +31,7 @@
     },
     {
       "name": "nanoDNS",
-      "filename": "nanodns-ps5.elf",
+      "filename": "nanodns.elf",
       "url": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
       "description": "Minimal PS5 payload DNS proxy to bypass local overrides and forward DNS queries",
       "version": "0.3"
